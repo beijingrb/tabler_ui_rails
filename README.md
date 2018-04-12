@@ -9,7 +9,7 @@ The gem is WIP and there're some problems, such as no idea of converting the ori
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'tabler_ui_rails', '~> 2.0'
+gem 'tabler_ui_rails', '~> 0.2'
 ```
 
 And then execute:
