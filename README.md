@@ -2,7 +2,7 @@
 
 This's a gem wrapped [Tabler UI](https://github.com/tabler/tabler) for Rails.
 
-The gem is WIP and there're some problems, such as no idea of converting the original `require` libaries into a sprockets way. Therefore some components like `chart` do not work at present.
+The gem is WIP and there're some problems, such as no idea of converting the original `require`d javascript libaries into a sprockets way. Therefore some components like `chart` do not work at present. Maybe you should handle those libs separately.
 
 ## Installation
 
@@ -22,7 +22,15 @@ Or install it yourself as:
 
 ## Usage
 
+### stylesheets
+
 Just require or @import `tabler_ui` in your css/scss files as kinda asset gems, e.g. [Bootstrap](https://github.com/twbs/bootstrap-rubygem).
+
+### javascripts
+
+```javascript
+//= require tabler_ui
+```
 
 ## Development
 
