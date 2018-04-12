@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-Just require or @import it in your css/scss files as kinda asset gems, e.g. [Bootstrap](https://github.com/twbs/bootstrap-rubygem).
+Just require or @import `tabler_ui` in your css/scss files as kinda asset gems, e.g. [Bootstrap](https://github.com/twbs/bootstrap-rubygem).
 
 ## Development
 
