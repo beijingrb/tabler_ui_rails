@@ -28,6 +28,8 @@ Just require or @import `tabler_ui` in your css/scss files as kinda asset gems, 
 
 ### javascripts
 
+Require it in your js file, e.g. `app/assets/javascripts/application.js`:
+
 ```javascript
 //= require tabler_ui
 ```
