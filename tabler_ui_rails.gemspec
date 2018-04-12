@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.description   = %q{A Ruby gem of Tabler UI for Rails.}
   spec.homepage      = "https://github.com/beijingrb/tabler_ui_rails"
   spec.license       = "MIT"
-  spec.files         = %w[lib assets]
+  spec.files         = Dir['MIT-LICENSE', 'README.md', 'lib/**/*', 'assets/**/*']
   spec.require_paths = ["lib"]
 
   spec.add_runtime_dependency 'jquery-rails'
