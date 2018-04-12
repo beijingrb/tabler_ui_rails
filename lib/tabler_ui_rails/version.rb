@@ -1,3 +1,4 @@
 module TablerUiRails
   VERSION = "0.1.0"
+  TABLER_VERSION = '9299e62774f1beb3767dac73438427887253b8ff'
 end
