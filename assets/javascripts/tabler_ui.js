@@ -2,7 +2,6 @@
 //= require jquery3
 //= require popper
 //= require holder
-//= require c3
 //= require bootstrap-sprockets
 
 window.tabler = {

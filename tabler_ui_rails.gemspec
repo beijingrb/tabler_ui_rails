@@ -18,7 +18,6 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency 'jquery-rails'
   spec.add_runtime_dependency 'popper_js', '>= 1.12.9', '< 2'
   spec.add_runtime_dependency 'sass', '>= 3.5.2'
-  spec.add_runtime_dependency 'c3-rails'
   spec.add_runtime_dependency 'sprockets-rails', '>= 2.3.2'
   spec.add_runtime_dependency 'autoprefixer-rails', '>= 6.0.3'
   spec.add_runtime_dependency 'bootstrap', '~> 4.0.0'
