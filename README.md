@@ -4,6 +4,8 @@ This's a gem wrapped [Tabler UI](https://github.com/tabler/tabler) for Rails.
 
 The gem is WIP and there're some problems, such as no idea of converting the original `require`d javascript libaries into a sprockets way. Therefore some components like `chart` do not work at present. Maybe you should handle those libs separately.
 
+And no any helper available now, maybe add some later. So don't hesitate to make a pull request.
+
 ## Installation
 
 Add this line to your application's Gemfile:
