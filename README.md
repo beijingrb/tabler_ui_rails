@@ -1,4 +1,4 @@
-# TablerUiRails
+# Tabler UI for Rails
 
 This's a gem wrapped [Tabler UI](https://github.com/tabler/tabler) for Rails.
 
