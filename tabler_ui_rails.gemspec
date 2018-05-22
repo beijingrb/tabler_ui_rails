@@ -17,10 +17,11 @@ Gem::Specification.new do |spec|
 
   spec.add_runtime_dependency 'jquery-rails'
   spec.add_runtime_dependency 'popper_js', '>= 1.12.9', '< 2'
+  spec.add_runtime_dependency 'holder_rails', '>= 2.9.3'
   spec.add_runtime_dependency 'sass', '>= 3.5.2'
   spec.add_runtime_dependency 'sprockets-rails', '>= 2.3.2'
   spec.add_runtime_dependency 'autoprefixer-rails', '>= 6.0.3'
-  spec.add_runtime_dependency 'bootstrap', '~> 4.0.0'
+  spec.add_runtime_dependency 'bootstrap', '>= 4.1.1'
 
   spec.add_development_dependency "bundler", "~> 1.16.a"
   spec.add_development_dependency "rake", "~> 10.0"
