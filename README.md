@@ -11,7 +11,7 @@ And no any helper's available now, maybe add some later. So don't hesitate to ma
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'tabler_ui_rails', '~> 0.3.0'
+gem 'tabler_ui_rails', '~> 0.3.1'
 ```
 
 And then execute:
